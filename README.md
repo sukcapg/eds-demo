@@ -5,6 +5,8 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
+- Preview Main:  https://main--eds-demo--sukcapg.aem.page
+- Live Main: https://main--eds-demo--sukcapg.aem.live
 ## Documentation
 
 Before using the aem-boilerplate, we recommand you to go through the documentation on https://www.aem.live/docs/ and more specifically:
